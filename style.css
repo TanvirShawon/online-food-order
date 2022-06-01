@@ -1,0 +1,274 @@
+.navbar {
+	background-color: #17171D;
+	opacity: 0.9;
+}
+.navbar-toggler-icon {
+	color: #FCF3DC;
+}
+.border {
+	display: inline-block;
+}
+.active {
+	color: #DC4523!important;
+}
+ul{
+    
+}
+ul li a {
+	color: #FCF3DC!important;
+	font-family: 'Raleway', sans-serif;
+}
+ul li a:hover{
+    color:#DC4523 !important;
+}
+h1 {
+	font-family: font-family: 'Raleway', sans-serif;
+	color: #FCF3DC;
+	font-size: 128px;
+	font-weight: 700;
+	line-height: 117px;
+	padding-top: 150px;
+}
+.p0 {
+	color: #FCF3DC;
+	font-size: 17px;
+	line-height: 28px;
+	padding-top: 30px;
+}
+#btn2 {
+	font-family: 'Raleway', sans-serif;
+	padding: 13px;
+	background-color: #DC4523; 
+	color: #FCF3DC;
+	margin-top: 30px;
+}
+.home-content {
+	background-color: #17171D;
+}
+img {
+	width: 563px;
+	height: 700px;
+}
+.about-content {
+	background-color: #17171D;
+}
+h2 {
+	 font-family: 'Raleway', sans-serif;
+	color: #FCF3DC;
+	font-size: 60px;
+	font-weight: 700;
+	line-height: 66px;
+	padding-top: 101px;
+	padding-left: 50px;
+}
+p.p1 {
+	font-family: 'Raleway', sans-serif;
+	color: #FCF3DC;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 27px;
+	padding-left: 50px;
+    padding-top: 48px;
+}
+p.p2 {
+	font-family: 'Raleway', sans-serif;
+	color: #FCF3DC;
+	font-size: 14px;
+	line-height: 27px;
+	padding-left: 50px;
+}
+.pic {
+	width: 563px;
+	height: 350px;
+}
+#btn3 {
+	font-family: 'Raleway', sans-serif;
+	padding: 13px;
+	background-color: #DC4523; 
+	color: #FCF3DC;
+	border: 0;
+	margin-top: 20px;
+	margin-left: 50px;
+}
+*{
+	margin: 0;
+	padding: 0;
+	scroll-behavior: smooth;
+}
+.d-menu {
+	color: #DE4623;
+	font-size: 85px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 900;
+}
+h1.d-menu {
+	padding-top: 50px;
+}
+.lead {
+	font-family: 'Raleway', sans-serif;
+	font-size: 16px;
+	font-weight: 900;
+	padding-bottom: 30px;
+}
+.menu-section-one {
+	background-color: #17171D;
+}
+
+.menu-section-two {
+	background-color: #FCF3DC;
+	padding: 95px;
+	
+}
+.span {
+	float: right;
+	margin: 10px 21px;
+	color: #DE4623;
+}
+.foodname {
+	color: #DE4623;
+	font-size: 60px;
+	line-height: 66px;
+	font-weight: 700;
+	letter-spacing: 0px;
+	font-family: 'Helvetica';
+}
+button.btn.text-center.btn-block {
+	background-color: #DE4623;
+}
+.modal-content {
+	background-color: #DE4623;
+	opacity: 0.9;
+	
+}
+
+.responsive{
+	width: 100%;
+	max-width: 400px;
+	height: auto;
+}
+.gallery-section-one {
+	background-color: #17171D;
+}
+.gallery-section-two {
+	background-color: #FCF3DC;
+	padding: 95px;
+}
+.order-section-one{
+	background-color: #FCF3DC;
+	padding: 95px;
+}
+.customer-content {
+	background-color: #17171D;
+}
+.h2c {
+	font-family: font-family: 'Raleway', sans-serif;
+	color: #FCF3DC;
+	font-size: 60px;
+	font-weight: 700;
+	line-height: 66px;
+	padding-top: 50px;
+}
+i.fas.fa-star {
+	color: #DC4523;
+	padding-top: 150px;
+}
+p.pc {
+	color: #FCF3DC;
+	font-size: 17px;
+	line-height: 28px;
+	padding-top: 0;
+
+}
+.fc {
+	margin-left: 200px;
+}
+img.mx-auto.d-block {
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+}
+.parac {
+	text-align: center;
+}
+.ic {
+	color: #FCF3DC;
+}
+.carousel-inner {
+	height: 350px;
+	background-color: #0F0F14;
+	margin-top: 80px;
+	margin-bottom: 60px;
+}
+.carousel-item {
+	padding-top: 100px;
+}
+.contact-secction {
+	background-color: #FCF3DC;
+	padding-bottom: 80px;
+}
+.contact-content {
+	padding-top: 100px;
+}
+p.pcs {
+	color: #000000;
+
+}
+.cl {
+	height: 300px;
+	width: 300px;
+	margin-left: 80px;
+}
+hr {
+	margin-top: 0;
+	margin-bottom: 0;
+	opacity: 0.2;
+}
+.footer-section {
+	background-color: #FCF3DC;
+}
+.footer-content {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.fl {
+	margin-left: 100px;
+}
+.logoiteam {
+
+}
+
+/*
+ .reg_bg img{
+  
+  background-size: cover;
+  background-repeat: no-repeat;
+  position: relative;
+
+}
+.reg-content{
+    position: absolute;
+  background: #00000036;
+  padding: 100px 0;
+  padding-top: 150px;
+  padding-bottom: 80px;
+}
+*/
+.error{
+    width: 92%;
+    margin: 0px auto;
+    padding: 10px;
+    border: 1px solid #a94442;
+    color: #a94442;
+    background: #f2dede;
+    border-radius: 5px;
+    text-align: left;
+    
+}
+
+.success{
+    color: #3c763d;
+    background: #dff0d8;
+    border: 1px solid #3c763d;
+    margin-bottom: 20px;
+    
+}
